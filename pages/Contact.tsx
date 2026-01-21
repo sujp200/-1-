@@ -45,7 +45,7 @@ const Contact: React.FC = () => {
         </form>
 
         <div className="mt-24 text-center space-y-2">
-            <p className="text-[10px] tracking-widest text-gray-400">INFO@CUCKOOINTERIOR.COM</p>
+            <p className="text-[10px] tracking-widest text-gray-400 font-bold uppercase">INFO@BBEOGGUGI.COM</p>
             <p className="text-[10px] tracking-widest text-gray-400">+82 2 1234 5678</p>
         </div>
       </div>
