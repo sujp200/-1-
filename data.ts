@@ -116,10 +116,10 @@ export const projects: Project[] = [
 ];
 
 export const team: TeamMember[] = [
-  { id: '1', name: '김동규', role: 'Main Designer', avatar: 'https://picsum.photos/id/64/100/100' },
-  { id: '2', name: '이지훈', role: 'Field Team', avatar: 'https://picsum.photos/id/65/100/100' },
-  { id: '3', name: '최아름', role: 'Video Team', avatar: 'https://picsum.photos/id/66/100/100' },
-  { id: '4', name: '박민석', role: '3D Designer', avatar: 'https://picsum.photos/id/67/100/100' },
+  { id: '1', name: '김성환', role: 'CEO', avatar: 'https://picsum.photos/id/64/100/100' },
+  { id: '2', name: '박서인', role: 'Designer', avatar: 'https://picsum.photos/id/65/100/100' },
+  { id: '3', name: '유은지', role: 'Designer', avatar: 'https://picsum.photos/id/66/100/100' },
+  { id: '4', name: '서명원', role: 'Creative Director', avatar: 'https://picsum.photos/id/67/100/100' },
 ];
 
 export const channels: Channel[] = [
